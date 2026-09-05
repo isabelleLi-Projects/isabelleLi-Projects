@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @isabelleLi-Projects
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently new to coding and am learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- ☕ I use Java.
+- 📫 Reach out through email: isabelle.li@sjsu.edu
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love dogs!
 
 <!---
