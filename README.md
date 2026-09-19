@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isabelleLi-Projects
 - 👀 I’m interested in machine learning.
 - ☕ I use Java.
-- 📫 Reach out through email: isabelle.li.dev@gmail.com
+- 📫 Reach out through email: isabelle.li.012@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love dogs!
 
